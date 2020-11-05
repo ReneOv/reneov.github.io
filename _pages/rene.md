@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "¿Quién soy?"
-permalink: /me/
+permalink: /rene/
 author_profile: true
 ---
 
