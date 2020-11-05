@@ -10,14 +10,7 @@ author_profile: true
 Accesibilidad
 ======
 * Gran interés por la accesiblidad en sistemas.
-
-Machine Learning
-======
-* xyz
-  * xyz
-
-* xyz
-  * xyz
+* Capacitado en Accessibility Insights de Microsoft para el diseño de sitios web usables por todos.
   
 Esports
 ======
@@ -26,10 +19,10 @@ Esports
 
 Videojuegos
 ======
-* Jugando Super Mario Bros. desde los 2 años.
-* xyz
+* Jugando Super Mario Bros. desde los 2 años. Esta fascinación desde una temprana edad me llevó a querer entender cómo funcionaban los juegos, y también cómo se hacen. No es sólo diseñar y programar, hay todo un mundo de ingeniería, investigación y gestión detrás de ellos.
+* Gran pasión por juegos independientes que redefinen o crean un género.
   
 Música
 ======
-* xyz
-* xyz
+* Total audiófilo. Dueño de 5 pares de audífonos, cada par con su propósito específico. Al igual que con géneros de música, siempre me encanta probar cosas nuevas e investigar a fondo para entender qué es lo nuevo que estoy experimentando.
+* Fan de la música electrónica instrumental, indie y math rock, y jazz.
