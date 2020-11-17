@@ -14,6 +14,7 @@ Accesibilidad
   
 Esports
 ======
+* Actual presidente del Grupo Estudiantil de Esports del Tec de Monterrey, Campus Querétaro.
 * Super Smash Bros. Ultimate - Rankeado mejor jugador de la universidad, 10mo en Querétaro.
 * League of Legends - Jugador representativo del Tec de Monterrey en liga CONADEIP.
 
