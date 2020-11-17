@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+## Curioso. Cooperativo. Consciente.
+
 René Ojeda Vega es estudiante del Tec de Monterrey de la carrera de Ingeniería en Sistemas Computacionales.  
 
 En la actualidad trabaja en el start-up queretano Natgas, en el departamento de NatDev como pasante de ingeniero de software. Ha colaborado en distintos equipos de disciplina ágil, tomando roles como dueño del producto y dueño de la arquitectura.  
