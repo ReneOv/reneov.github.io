@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "¡Bienvenid@!"
+title: "¡Bienvenido!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -20,3 +20,5 @@ Podrás leer sobre mí: mi carrera, mi trabajo, de dónde surgió mi pasión por
 Si mi perfil te llamó la atención, podrás conocer información más detallada de mi experiencia profesional y mis competencias académicas y laborales. Los proyectos con mayor impacto en mi conocimiento, experiencia y resultados en los usuarios y clientes.
 
 Adicional a eso, también hay una sección de mis pasiones personales. Ésta incluye mi motivación en mi carrera, al igual que una lista de mis hobbies y cómo me han formado.
+
+Mi contacto está en la barra izquierda si te interesó mi perfil profesional.
