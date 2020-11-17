@@ -24,5 +24,5 @@ Videojuegos
   
 Música
 ======
-* Total audiófilo. Dueño de 5 pares de audífonos, cada par con su propósito específico. Al igual que con géneros de música, siempre me encanta probar cosas nuevas e investigar a fondo para entender qué es lo nuevo que estoy experimentando.
+* Total audiófilo. Al igual que con géneros de música, siempre me encanta probar cosas nuevas e investigar a fondo para entender qué es lo nuevo que estoy experimentando.
 * Fan de la música electrónica instrumental, indie y math rock, y jazz.
